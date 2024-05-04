@@ -12,3 +12,6 @@ Undo/redo functionality: Stacks can be used to implement undo/redo functionality
 Implementation: Stacks can be implemented using arrays or linked lists. Array-based implementations are simple and efficient for accessing elements, but they have a fixed size and may require resizing. Linked list-based implementations are more flexible in terms of size but may be less efficient for accessing elements.
 Space complexity: The space complexity of a stack is O(n), where n is the number of elements in the stack. This is because each element in the stack requires a constant amount of space.
 Stacks are a versatile data structure with many applications in computer science and programming. Understanding how to use and implement stacks is an important skill for any programmer.
+
+## My application 
+In my application I have a stack class . I found this working really because of class abstraction and polymorphism.
